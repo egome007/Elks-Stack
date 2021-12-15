@@ -1,5 +1,5 @@
 # Elks-Stack
-![](http://i.imgur.com/y8g506n.png?1)
+![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.seekpng.com%2Fpng%2Fdetail%2F221-2211816_elk-stack-logo.png&imgrefurl=https%3A%2F%2Fwww.seekpng.com%2Fipng%2Fu2w7e6i1a9y3w7q8_elk-stack-logo%2F&tbnid=HY09yuQOduSzrM&vet=12ahUKEwip--qc0-T0AhVVlp4KHddRDhUQMygDegUIARCvAQ..i&docid=rgWs9VZaYqM3CM&w=820&h=330&itg=1&q=elk%20stack%20logo&ved=2ahUKEwip--qc0-T0AhVVlp4KHddRDhUQMygDegUIARCvAQ)
 
 # joe
 
