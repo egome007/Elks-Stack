@@ -1,4 +1,3 @@
-
 ![The Well App](thumbnail.png)
 
 <div align='center'>
